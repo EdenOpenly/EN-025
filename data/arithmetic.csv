@@ -1,0 +1,10 @@
+check_id,expression,expected,manuscript_text
+A01,46/647*100,7.1,"about 7%"
+A02,53-37,16,"The figures 16 and 20 equal the differences between successive totals (53 − 37 and 104 − 84)"
+A03,84-53,31,"For 2022 the same subtraction gives 31, not 34"
+A04,104-84,20,"(53 − 37 and 104 − 84)"
+A05,618-21,597,"597 deaths were not among the 21"
+A06,10+6+5,21,"at least 10 ... 6 ... and 5"
+A07,2023-2016+1,8,"2016–2023 is eight calendar years"
+A08,5+4+22+10+3+2,46,"By year the 46 runs 5, 4, 22, 10, 3, 2"
+A09,5+7,12,"5 suicides ... and 7 in the three years after"
