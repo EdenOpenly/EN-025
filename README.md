@@ -1,6 +1,6 @@
 # EN-025 — Five numbers, five ways of counting
 
-Companion repository for the Eden Openly Evidence Note **EN-025**, *Five numbers, five ways of counting: what the trans suicide figures circulating in the UK actually measure* (version 1.0, DOI [10.5281/zenodo.23327489](https://doi.org/10.5281/zenodo.23327489)).
+Companion repository for the Eden Openly Evidence Note **EN-025**, *Five numbers, five ways of counting: what the trans suicide figures circulating in the UK actually measure* (version 1.0, DOI [10.5281/zenodo.23327489](https://doi.org/10.5281/zenodo.23327489); all versions [10.5281/zenodo.23327488](https://doi.org/10.5281/zenodo.23327488)).
 
 *Content note: the note discusses suicide, including the deaths of children. Suicide is preventable. If anything here affects you, Samaritans are there day or night on 116 123 (free, UK and Ireland) or at samaritans.org.*
 

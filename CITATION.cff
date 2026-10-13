@@ -18,3 +18,10 @@ preferred-citation:
   version: "1.0"
   year: 2026
   doi: "10.5281/zenodo.23327489"
+  identifiers:
+    - type: doi
+      value: "10.5281/zenodo.23327489"
+      description: "This version (1.0)"
+    - type: doi
+      value: "10.5281/zenodo.23327488"
+      description: "All versions"
